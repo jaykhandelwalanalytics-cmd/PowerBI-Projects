@@ -1,66 +1,67 @@
-# HR Analytics Dashboard – Power BI
+# Ecom Express Dashboard
 
-Interactive HR Analytics Dashboard built in Power BI to analyze employee attrition, workforce distribution, salary insights, and employee demographics.
+Interactive Power BI dashboard project focused on sales analysis, customer insights, and regional performance tracking.
+
+## Project Overview
+
+This dashboard was created by following the complete Data Analytics workflow:
+
+1. Data Collection  
+2. Data Cleaning & Transformation  
+3. Data Analysis  
+4. Data Visualization  
+5. Business Insights Generation  
+
+The project helps analyze sales trends, customer behavior, product performance, and state-wise revenue distribution.
 
 ---
 
-## Dashboard Overview
-
-This dashboard helps in understanding:
-- Employee Attrition Trends
-- Department-wise Workforce Analysis
-- Salary Slab Distribution
-- Employee Age Group Insights
-- Gender Distribution
-- Experience-based Attrition Patterns
-- Job Role & Satisfaction Analysis
-
----
-
-## Key Features
+## Dashboard Features
 
 - KPI Cards
-- Interactive Filters & Slicers
-- Department-wise Analysis
-- Attrition Analysis
-- Salary Insights
-- Employee Demographics
-- Donut & Funnel Charts
-- Experience Trend Analysis
+- Revenue Analysis
+- State-wise Sales Map
+- Product Performance Tracking
+- Category-wise Orders
+- Interactive Slicers
+- Customer Insights
+- Monthly Revenue Trend
 
 ---
 
-## Tools & Technologies Used
+## Tools Used
 
 - Power BI
-- Power Query
-- DAX
-- Data Visualization
+- SQL
+- Excel
+
+---
+
+## Key Insights
+
+- Highest revenue generated from Laptop category
+- Strong sales performance in multiple states
+- Revenue trends analyzed month-wise
+- Product-wise contribution identified
 
 ---
 
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard Overview](dashboard-overview.png)
 
-### Filter Panel
-![Filter Panel](filter-panel.png)
+![Main Dashboard](ecom-express-main-dashboard.png)
 
----
+### State-wise Sales Map
 
-## Key Insights
-
-- Highest employee count belongs to the Operations department
-- Majority workforce falls in the 26–35 age group
-- Attrition rate observed at 16.30%
-- Salary slabs show different attrition behavior
-- Gender distribution highlights workforce balance
+![Sales Map](state-wise-sales-map.png)
 
 ---
 
-## Author
+## Project Files
 
-**Jay Khandelwal**
+- `.pbix` Power BI dashboard file
+- Dashboard screenshots
+- README documentation
 
 GitHub: https://github.com/jaykhandelwalanalytics-cmd
