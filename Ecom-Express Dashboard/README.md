@@ -1,65 +1,66 @@
-# Adventure Works Power BI Dashboard
+# HR Analytics Dashboard – Power BI
 
-## Overview
-
-This project is an interactive Power BI dashboard created using the Adventure Works dataset.
-It provides insights into revenue, profit, customer behavior, product performance, and return analysis.
+Interactive HR Analytics Dashboard built in Power BI to analyze employee attrition, workforce distribution, salary insights, and employee demographics.
 
 ---
 
-## Dashboard Features
+## Dashboard Overview
 
-* Executive Dashboard
-* Customer Analysis
-* Product Details Analysis
-* Geographic Sales Map
-* Decomposition Tree Analysis
-* Revenue & Profit Tracking
-* Return Rate Monitoring
+This dashboard helps in understanding:
+- Employee Attrition Trends
+- Department-wise Workforce Analysis
+- Salary Slab Distribution
+- Employee Age Group Insights
+- Gender Distribution
+- Experience-based Attrition Patterns
+- Job Role & Satisfaction Analysis
+
+---
+
+## Key Features
+
+- KPI Cards
+- Interactive Filters & Slicers
+- Department-wise Analysis
+- Attrition Analysis
+- Salary Insights
+- Employee Demographics
+- Donut & Funnel Charts
+- Experience Trend Analysis
 
 ---
 
 ## Tools & Technologies Used
 
-* Power BI
-* DAX
-* Power Query
-* SQL
-* Excel
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
 
 ---
 
 ## Dashboard Screenshots
 
-### Executive Dashboard
+### Main Dashboard
+![Dashboard Overview](dashboard-overview.png)
 
-![Executive Dashboard](Screenshots/exec-dashboard.png)
-
-### Customer Analysis Dashboard
-
-![Customer Dashboard](Screenshots/customer-analysis-dashboard.png)
-
-### Product Details Dashboard
-
-![Product Dashboard](Screenshots/product-details-dashboard.png)
-
-### Geographic Map Analysis
-
-![Map Dashboard](Screenshots/map-analysis.png)
-
-### Decomposition Tree
-
-![Decomposition Tree](Screenshots/decomposition-tree.png)
+### Filter Panel
+![Filter Panel](filter-panel.png)
 
 ---
 
-## Project File
+## Key Insights
 
-`AdventureWorks.pbix`
+- Highest employee count belongs to the Operations department
+- Majority workforce falls in the 26–35 age group
+- Attrition rate observed at 16.30%
+- Salary slabs show different attrition behavior
+- Gender distribution highlights workforce balance
 
 ---
 
 ## Author
 
-Jay Khandelwal
+**Jay Khandelwal**
 
+GitHub: https://github.com/jaykhandelwalanalytics-cmd
